@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# IDE - IntelliJ
+.idea/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Mac OS
+.DS_Store

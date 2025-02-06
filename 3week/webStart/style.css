@@ -1,0 +1,17 @@
+#title {
+    color: rgb(173,6,6);
+    text-align: center;
+}
+form #id {
+    font-size: 25px;
+}
+
+form #password {
+    font-size: 25px;
+}
+
+form #btn {
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+}
