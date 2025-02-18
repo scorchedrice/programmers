@@ -1,0 +1,9 @@
+{
+  "name": "node-base",
+  "version": "1.0.0",
+  "main": "express.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
